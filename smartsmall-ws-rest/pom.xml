@@ -21,6 +21,11 @@
 			<version>2.0.1</version>
 		</dependency>
 		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-hibernatevalidator-provider</artifactId>
+			<version>3.0.19.Final</version>
+		</dependency>
+		<dependency>
 			<groupId>com.mars_crater.smartsmall</groupId>
 			<artifactId>smartsmall-ws-persistence</artifactId>
 		</dependency>
